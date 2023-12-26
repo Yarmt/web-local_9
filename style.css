@@ -1,0 +1,55 @@
+header {
+    width: 100%;
+  height: 200px;
+}
+
+body{
+    margin: 0;
+}
+ul{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ol{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+table{
+    border-collapse: collapse;
+}
+table td{
+    border-width: 1px;
+    border-style: solid;
+}
+table th{
+    border-width: 1px;
+    border-style: solid;
+}
+main{
+    min-height: 100vh;
+    color: black;
+    background-color: lightgray;
+}
+
+footer{
+    height: 100px;
+
+    background-color: black;
+}
+
+.iconHeader{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.func{
+    border-width: 2px;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: red;
+    margin: 8px;
+    padding: 5px;
+    display: inline-block;
+}
+
